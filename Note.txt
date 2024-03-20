@@ -1,4 +1,0 @@
-1.First check the port number of your MySQL server and then make the connection to your MySQL database. 
-2.Place the users and urls folder inside xampp>htdocs.
-3.Create the required tables in your database.
-4.To run the application type localhost/users/index.php in your browser.

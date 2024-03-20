@@ -1,0 +1,4 @@
+1.First check the port number of your MySQL server and then create a database called url_shortener_db and make the connection to your MySQL database. 
+2.Create the required tables in your database,which are users and urls.
+3.Place the users and urls folder inside xampp>htdocs.
+4.To run the application type localhost/users/index.php in your browser.
