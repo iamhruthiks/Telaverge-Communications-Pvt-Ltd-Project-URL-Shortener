@@ -21,8 +21,8 @@ A Web Application which takes the long URL as input from the user and gives the 
 
 
 ## Technologies/Tools used
-- HTML, CSS and JavaScript – Front End
--	PHP and AJAX – Back End
+- HTML, CSS and JavaScript – Client side language
+-	PHP – Server side language
 -	XAMPP – Web Server
 -	MySQL – Database
 
